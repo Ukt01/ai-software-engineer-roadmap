@@ -28,8 +28,8 @@ flowchart TD
 
 | Stage | Stage Title | Total Tasks | XP Available | Status |
 | :--- | :--- | :---: | :---: | :---: |
-| **Stage 0** | Prerequisites | 6 Tasks | 100 XP | In Progress |
-| **Stage 1** | Think Like an Engineer | 6 Tasks | 150 XP | Locked |
+| **Stage 0** | Prerequisites | 6 Tasks | 100 XP | Completed |
+| **Stage 1** | Think Like an Engineer | 6 Tasks | 150 XP | In Progress |
 | **Stage 2** | Write Maintainable Software | 8 Tasks | 200 XP | Locked |
 | **Stage 3** | Build Production Software | 8 Tasks | 250 XP | Locked |
 | **Stage 4** | Design Large Systems | 10 Tasks | 300 XP | Locked |
