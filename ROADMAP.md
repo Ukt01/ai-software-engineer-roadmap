@@ -3,7 +3,7 @@
 
 ---
 
-## 💙 A Note Before You Start
+## A Note Before You Start
 
 > **Struggling with DSA, LeetCode, or complex math? You are not alone.**
 > 
@@ -13,11 +13,11 @@
 
 ---
 
-## 🗺️ Learning Path Overview
+## Learning Path Overview
 
 ```mermaid
 flowchart TD
-    Start([🚀 Start Here]) --> S0[Stage 0: Prerequisites]
+    Start([Start Here]) --> S0[Stage 0: Prerequisites]
     S0 --> S1[Stage 1: Think Like an Engineer]
     S1 --> S2[Stage 2: Write Maintainable Code]
     S2 --> S3[Stage 3: Build Production Software]
@@ -25,7 +25,7 @@ flowchart TD
     S4 --> S5[Stage 5: Software Architecture]
     S5 --> S6[Stage 6: AI Native Engineer]
     S6 --> S7[Stage 7: Principal Mindset]
-    S7 --> Goal([🏆 AI Software Architect])
+    S7 --> Goal([AI Software Architect])
 
     classDef stage fill:#1f2937,stroke:#3b82f6,stroke-width:2px,color:#fff;
     classDef startGoal fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff;
@@ -82,7 +82,7 @@ Learn how software is built in real company projects.
 - Form & Data Validation
 - Simple Git Workflows (Feature branches and Pull Requests)
 
-### 🔨 Mini Project
+### Mini Project
 **Library Management System**
 
 ### Your Outcome
@@ -103,7 +103,7 @@ Learn how applications run in the real world outside your local machine.
 - App Monitoring & Error Alerting
 - Production Security Basics
 
-### 🔨 Mini Project
+### Mini Project
 **E-Commerce Backend**
 
 ### Your Outcome
@@ -123,7 +123,7 @@ Understand how apps handle millions of users and scale effortlessly.
 - Message Queues (Kafka / RabbitMQ made simple)
 - Event-Driven Design (apps reacting to user actions)
 
-### 🔨 Mini Project
+### Mini Project
 **Online Banking Platform**
 
 ### Your Outcome
@@ -143,7 +143,7 @@ Plan and structure big software projects before writing code.
 - Architectural Decision Records (ADRs) — tracking design choices
 - Balancing trade-offs (speed vs complexity)
 
-### 🔨 Mini Project
+### Mini Project
 **School ERP System**
 
 ### Your Outcome
@@ -164,7 +164,7 @@ Use AI as a super-powered coding partner to build faster and smarter.
 - AI Agents & Multi-Agent Workflows
 - AI Code Reviews & Observability
 
-### 🔨 Mini Project
+### Mini Project
 **AI ERP Assistant**
 
 ### Your Outcome
@@ -184,7 +184,7 @@ Solve business problems, guide teams, and lead technical strategy.
 - Architectural Documentation & Clear Communication
 - Estimating effort and managing project trade-offs
 
-### 🔨 Mini Project
+### Mini Project
 **Enterprise Platform Design**
 
 ### Your Outcome
@@ -192,28 +192,28 @@ Solve business problems, guide teams, and lead technical strategy.
 
 ---
 
-## 🎯 Simple Stage Checklist
+## Simple Stage Checklist
 
 Every topic module includes:
 
 ```mermaid
 flowchart LR
-    A[📖 Simple Theory] --> B[💻 Code Example]
-    B --> C[❌ Common Mistakes]
-    C --> D[🤖 AI Assistance]
-    D --> E[🔨 Hands-on Project]
+    A[Simple Theory] --> B[Code Example]
+    B --> C[Common Mistakes]
+    C --> D[AI Assistance]
+    D --> E[Hands-on Project]
 ```
 
-- 📖 **Simple Explanation** — No complex academic jargon.
-- 🏢 **Real World Use Case** — Practical examples from everyday apps.
-- 💻 **Code Example** — Short, easy-to-read snippet.
-- ❌ **Mistakes to Avoid** — Common pitfalls explained simply.
-- 🤖 **AI Tip** — How AI can help you learn or implement this topic.
-- 🔨 **Hands-on Practice** — A small, doable exercise.
+- **Simple Explanation** — No complex academic jargon.
+- **Real World Use Case** — Practical examples from everyday apps.
+- **Code Example** — Short, easy-to-read snippet.
+- **Mistakes to Avoid** — Common pitfalls explained simply.
+- **AI Tip** — How AI can help you learn or implement this topic.
+- **Hands-on Practice** — A small, doable exercise.
 
 ---
 
-## 🏆 Boss Level Projects
+## Boss Level Projects
 
 ```mermaid
 graph LR
@@ -231,14 +231,14 @@ graph LR
 
 ---
 
-## 📈 Career Growth Ladder
+## Career Growth Ladder
 
 ```mermaid
 flowchart TD
     Dev[Junior Developer] --> SE[Software Engineer]
     SE --> Senior[Senior Software Engineer]
     Senior --> Architect[Software Architect]
-    Architect --> AIArchitect[⭐ AI Software Architect ⭐]
+    Architect --> AIArchitect[AI Software Architect]
     AIArchitect --> Leadership[Principal Engineer / Tech Founder]
 ```
 
