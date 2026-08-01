@@ -83,6 +83,6 @@ A relational database is like a digital filing cabinet made of tables with rows 
 
 Complete these hands-on steps before moving to Week 2:
 
-- [ ] **Task 1:** Create a simple class (`User` or `Product`) with 3 properties and 1 method in your preferred language.
-- [ ] **Task 2:** Instantiate 2 separate objects from your class and call its method.
-- [ ] **Task 3:** Write and run basic SQL queries (`SELECT`, `INSERT`, `UPDATE`, `DELETE`) on a local database (SQLite, SQL Server, or PostgreSQL).
+- [X] **Task 1:** Create a simple class (`User` or `Product`) with 3 properties and 1 method in your preferred language.
+- [X] **Task 2:** Instantiate 2 separate objects from your class and call its method.
+- [X] **Task 3:** Write and run basic SQL queries (`SELECT`, `INSERT`, `UPDATE`, `DELETE`) on a local database (SQLite, SQL Server, or PostgreSQL).

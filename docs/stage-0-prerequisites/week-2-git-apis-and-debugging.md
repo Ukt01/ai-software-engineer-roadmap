@@ -81,6 +81,6 @@ When code crashes, do not panic. Error messages (stack traces) tell you exactly 
 
 Complete these hands-on steps before moving to Stage 1:
 
-- [ ] **Task 1:** Make a GET request to a public API (like `https://jsonplaceholder.typicode.com/todos/1`) using Postman or your browser.
-- [ ] **Task 2:** Initialize a local Git repository, make 2 commits, and push your code to a public GitHub repository.
-- [ ] **Task 3:** Intentionally cause a null reference / undefined error in your code, read the stack trace, and use a log statement or debugger breakpoint to fix it.
+- [X] **Task 1:** Make a GET request to a public API (like `https://jsonplaceholder.typicode.com/todos/1`) using Postman or your browser.
+- [X] **Task 2:** Initialize a local Git repository, make 2 commits, and push your code to a public GitHub repository.
+- [X] **Task 3:** Intentionally cause a null reference / undefined error in your code, read the stack trace, and use a log statement or debugger breakpoint to fix it.

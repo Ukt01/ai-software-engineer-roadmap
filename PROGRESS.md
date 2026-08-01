@@ -46,12 +46,12 @@ Mark your progress by changing `[ ]` to `[x]` as you complete each weekly task!
 
 ### Stage 0: Prerequisites (100 XP)
 
-- [ ] **Stage 0 / Week 1 / Task 1:** Create a class with 3 properties and 1 method (20 XP)
-- [ ] **Stage 0 / Week 1 / Task 2:** Instantiate 2 objects and call object methods (20 XP)
-- [ ] **Stage 0 / Week 1 / Task 3:** Execute SELECT, INSERT, UPDATE, DELETE SQL queries (20 XP)
-- [ ] **Stage 0 / Week 2 / Task 1:** Make a GET request to a public API via Postman/Browser (15 XP)
-- [ ] **Stage 0 / Week 2 / Task 2:** Commit 2 changes and push to a remote GitHub repository (15 XP)
-- [ ] **Stage 0 / Week 2 / Task 3:** Read a stack trace and fix an intentional crash using logs (10 XP)
+- [x] **Stage 0 / Week 1 / Task 1:** Create a class with 3 properties and 1 method (20 XP)
+- [x] **Stage 0 / Week 1 / Task 2:** Instantiate 2 objects and call object methods (20 XP)
+- [x] **Stage 0 / Week 1 / Task 3:** Execute SELECT, INSERT, UPDATE, DELETE SQL queries (20 XP)
+- [x] **Stage 0 / Week 2 / Task 1:** Make a GET request to a public API via Postman/Browser (15 XP)
+- [x] **Stage 0 / Week 2 / Task 2:** Commit 2 changes and push to a remote GitHub repository (15 XP)
+- [x] **Stage 0 / Week 2 / Task 3:** Read a stack trace and fix an intentional crash using logs (10 XP)
 
 ---
 
