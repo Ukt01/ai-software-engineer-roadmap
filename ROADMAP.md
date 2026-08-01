@@ -35,6 +35,24 @@ flowchart TD
 
 ---
 
+## Modular Navigation & 24-Week Timeline
+
+> **Already experienced in earlier stages?**  
+> You do not have to start from Stage 0. Jump directly to any stage matching your goals. Each stage contains weekly guides, step-by-step tasks, and hands-on projects.
+
+| Stage | Stage Name | Recommended Time | Core Weekly Focus | Docs & Guides |
+| :--- | :--- | :--- | :--- | :--- |
+| **Stage 0** | Prerequisites | 2 Weeks | Core Programming, SQL, REST APIs, Git & Debugging | [Stage 0 Guides](docs/stage-0-prerequisites/) |
+| **Stage 1** | Think Like an Engineer | 2 Weeks | Clean Code, Naming, SOLID & Unit Testing | [Week 1](docs/stage-1-think-like-an-engineer/week-1-clean-code-and-naming.md) \| [Week 2](docs/stage-1-think-like-an-engineer/week-2-solid-and-testing.md) |
+| **Stage 2** | Write Maintainable Software | 3 Weeks | Design Patterns, Dependency Injection, Auth & Validation | [Stage 2 Guides](docs/stage-2-write-maintainable-software/) |
+| **Stage 3** | Build Production Software | 3 Weeks | Docker, CI/CD Pipelines, Redis Caching & Queues | [Stage 3 Guides](docs/stage-3-build-production-software/) |
+| **Stage 4** | Design Large Systems | 4 Weeks | System Design, Load Balancing, Database Scaling & Kafka | [Stage 4 Guides](docs/stage-4-design-large-systems/) |
+| **Stage 5** | Software Architecture | 4 Weeks | Clean Architecture, Domain-Driven Design (DDD) & CQRS | [Stage 5 Guides](docs/stage-5-software-architecture/) |
+| **Stage 6** | AI Native Engineer | 4 Weeks | LLMs, MCP Protocol, RAG Pipelines & AI Agents | [Stage 6 Guides](docs/stage-6-ai-native-engineer/) |
+| **Stage 7** | Principal Engineer Mindset | 2 Weeks | Requirements Engineering, Tech Strategy & Leadership | [Stage 7 Guides](docs/stage-7-principal-mindset/) |
+
+---
+
 ## Stage 0 — Prerequisites
 
 ### Goal
