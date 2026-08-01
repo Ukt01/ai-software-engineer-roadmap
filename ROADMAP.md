@@ -58,8 +58,9 @@ Feel confident writing basic code independently.
 ### Goal
 Write clean, readable code that any team member can easily understand.
 
-### Documentation & Guide
-- [Stage 1 Guide: Think Like an Engineer](docs/01-think-like-an-engineer.md)
+### Documentation & Weekly Guides
+- [Week 1: Clean Code & Meaningful Naming](docs/stage-1-think-like-an-engineer/week-1-clean-code-and-naming.md)
+- [Week 2: SOLID Principles & Unit Testing](docs/stage-1-think-like-an-engineer/week-2-solid-and-testing.md)
 
 ### Core Topics
 - Clean Code basics (good variable names, small functions)
