@@ -10,6 +10,8 @@
 > Many great software engineers are not competitive programmers. In the AI era, software engineering is shifting from memorizing algorithms to **building systems**, **understanding software design**, and **collaborating with AI**.
 > 
 > If you know basic programming, you can master this roadmap. No heavy DSA required.
+> 
+> **Interactive Dashboard:** Track your tasks, XP points, and unlocked badges in [PROGRESS.md](PROGRESS.md).
 
 ---
 

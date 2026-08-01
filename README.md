@@ -24,8 +24,11 @@ For a long time, I never considered myself a "top-tier" competitive programmer. 
 
 - **Agentic Workflows & Autonomous Systems** - Orchestrating multi-agent networks, tools, and human-in-the-loop intelligence.
 - **Software Architecture & DDD** - Clean Architecture, SOLID, Domain-Driven Design, CQRS, and Event-Driven systems.
-- **AI Tooling & Protocols** - Model Context Protocol (MCP), RAG pipelines, LangChain, LlamaIndex, vector stores, and LLM APIs.
-- **Modern Full-Stack & Systems** - C#, .NET, Python, React, Blazor, Cloud Infrastructure, and Scalable Backend Design.
+- **Progress Dashboard** - [Track your tasks, XP, and growth in PROGRESS.md](PROGRESS.md)
+- **Roadmap** - How to become an AI Software Engineer
+- **Foundations** - Core principles and architecture
+- **Tools** - LangChain, LlamaIndex, MCP, Pinecone, Groq
+- **Projects** - Full stack, AI agents, RAG systems, MLOps, C#, .NET, Python, React, Blazor, Cloud Infrastructure, and Scalable Backend Design.
 - **Next-Gen Interview Preparation** - AI-native system design, case studies, architectural deep-dives, and behavioral mastery.
 
 ---
