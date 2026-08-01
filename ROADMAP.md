@@ -42,7 +42,7 @@ flowchart TD
 
 | Stage | Stage Name | Recommended Time | Core Weekly Focus | Docs & Guides |
 | :--- | :--- | :--- | :--- | :--- |
-| **Stage 0** | Prerequisites | 2 Weeks | Core Programming, SQL, REST APIs, Git & Debugging | [Stage 0 Guides](docs/stage-0-prerequisites/) |
+| **Stage 0** | Prerequisites | 2 Weeks | Core Programming, SQL, REST APIs, Git & Debugging | [Week 1](docs/stage-0-prerequisites/week-1-programming-oop-and-sql.md) \| [Week 2](docs/stage-0-prerequisites/week-2-git-apis-and-debugging.md) |
 | **Stage 1** | Think Like an Engineer | 2 Weeks | Clean Code, Naming, SOLID & Unit Testing | [Week 1](docs/stage-1-think-like-an-engineer/week-1-clean-code-and-naming.md) \| [Week 2](docs/stage-1-think-like-an-engineer/week-2-solid-and-testing.md) |
 | **Stage 2** | Write Maintainable Software | 3 Weeks | Design Patterns, Dependency Injection, Auth & Validation | [Stage 2 Guides](docs/stage-2-write-maintainable-software/) |
 | **Stage 3** | Build Production Software | 3 Weeks | Docker, CI/CD Pipelines, Redis Caching & Queues | [Stage 3 Guides](docs/stage-3-build-production-software/) |
@@ -57,6 +57,10 @@ flowchart TD
 
 ### Goal
 Feel confident writing basic code independently.
+
+### Documentation & Weekly Guides
+- [Week 1: Programming Foundations, OOP & SQL](docs/stage-0-prerequisites/week-1-programming-oop-and-sql.md)
+- [Week 2: REST APIs, Git & Debugging](docs/stage-0-prerequisites/week-2-git-apis-and-debugging.md)
 
 ### Core Topics
 - Basic Programming (C#, Python, JavaScript, or any language you like)
